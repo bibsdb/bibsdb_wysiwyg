@@ -1,4 +1,4 @@
-name = bibsdb_wysiwyg
+name = Bibsdb Wysiwyg
 description = Make ckeditor_link available plus minor adjustments to default editor setup
 core = 7.x
 package = Bibsdb
