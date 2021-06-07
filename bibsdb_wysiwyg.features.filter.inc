@@ -30,11 +30,6 @@ function bibsdb_wysiwyg_filter_default_formats() {
           'filter_url_length' => 72,
         ),
       ),
-      'filter_autop' => array(
-        'weight' => -47,
-        'status' => 1,
-        'settings' => array(),
-      ),
       'media_filter' => array(
         'weight' => -46,
         'status' => 1,
